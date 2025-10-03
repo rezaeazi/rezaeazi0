@@ -5,8 +5,8 @@
 I am a Python programmer who loves learning and building new projects.
 
 Expertise:  
-- 💻 programming with Python  
--
+- 💻 programming with Python
+- 
 ## 📄  my resume  
 ### 🔹 View as image
 ![resume](resume.png)
